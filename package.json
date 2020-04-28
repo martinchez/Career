@@ -1,0 +1,11 @@
+{
+  "name": "myportfolio-master",
+  "version": "2.0.0",
+  "description": "this is an update on my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martin wainaina",
+  "license": "ISC"
+}
